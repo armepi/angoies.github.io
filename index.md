@@ -1,6 +1,7 @@
 # Testing ... 
 
-- [enlace a tema1](tema1.md) Nota: convierte el enlace a fichero.md en fichero.html, etc.. 
+- [enlace a tema1](tema1.md) 
+- Nota: convierte el enlace a fichero.md en fichero.html, etc.. 
 - [enlace a tema1](tema1.html)
 ## Welcome to GitHub Pages
 
